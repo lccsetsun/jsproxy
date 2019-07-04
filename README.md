@@ -1,6 +1,6 @@
 # 演示
 
-https://jsproxy.tk/-----https://www.google.com
+https://jsproxy.ga/-----https://www.google.com
 
 （目前仍在更新中，如有问题尝试用隐身模式访问）
 
